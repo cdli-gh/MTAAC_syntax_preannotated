@@ -1,0 +1,21 @@
+#new_text=P119277
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(asz)	2(asz)[one]	NUM	NU	_	2	nummod	_	_
+2	gu2	gun[unit]	NOUN	N	Number=Sing	0	_	_	_
+3	gi	gi[reed]	NOUN	N	Number=Sing	2	appos	_	_
+4	al-zi-ra	zir[break]	VERB	V	_	3	amod	_	_
+5	ninda	ninda[bread]	NOUN	N	Number=Sing	2	appos	_	_
+6	DUL3	dul[shade]	NOUN	N	Number=Sing	2	appos	_	_
+7	du8-de3	du[bake]	VERB	V	_	6	amod	_	_
+8	ki	ki[place]	NOUN	N	Number=Sing	2	appos	_	_
+9	ur-ge6-par4-ta	Urgepar[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	8	GEN	_	_
+10	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+11	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	10	GEN	_	_
+12	iti	iti[month]	NOUN	N	Number=Sing	10	appos	_	_
+13	e2-iti-6(disz)	E'iti6[1]	PROPN	MN	Number=Sing	10	appos	_	_
+14	sza3	szag[heart]	NOUN	N	Number=Sing	0	_	_	_
+15	bala-a	bala[tax]	NOUN	N	Case=Gen|Number=Sing	14	GEN	_	_
+16	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+17	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+18	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+19	da-da-a	Dadaya[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	18	GEN	_	_

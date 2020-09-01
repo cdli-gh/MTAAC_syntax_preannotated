@@ -1,0 +1,20 @@
+#new_text=P303771
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+2	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ø]
+3	niga	niga[fattened]	VERB	V	_	niga[fattened][-ø][-ø]	NF.V.ABS.ABS	_	niga[fattened][-ø][-ak]
+4	2(disz)	2(disz)[one]	NUM	NU	_	2(disz)[one]	_	_	_
+5	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ø]
+6	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+7	sila4	sila[lamb]	NOUN	N	Case=Abs|Number=Sing	sila[lamb][-ø]	N	_	sila[lamb]
+8	ba-usz2	ug[die]	VERB	V	Number=Plur|Person=3|Voice=Mid	_	_	_	_
+9	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+10	3(disz)-kam	3(disz)[one]	NUM	NU	Case=Gen	_	_	_	_
+11	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+12	na-lu5-ta	Nalu[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	Nalu[1][-ak][-ta]	PN.GEN.ABL	_	_
+13	{d}szul-gi-iri-mu	Szulgi'irimu[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	Szulgi'irimu[1][-ak]	PN.GEN	_	Szulgi’irimu[1][-ak]
+14	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	szu[hand]	N	_	szu[hand][-ø]
+15	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba[-n]teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	_	ba[-n]-teg[accept][-ø][-a]
+16	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month]-
+17	sze-sag11-ku5	Szesagku[1]	PROPN	MN	Number=Sing	Szesagku[1][-'a]	MN.L1	_	Szesagkud[1]
+18	4(disz)	4(disz)[one]	NUM	NU	_	4(disz)[one][-ø]	NU.ABS	_	_

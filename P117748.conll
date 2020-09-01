@@ -1,0 +1,27 @@
+#new_text=P117748
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(u)	1(u)[ten]	NUM	NU	_	3	nummod	_	_
+2	6(disz)	6(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	kid	kid[mat]	NOUN	N	Number=Sing	0	_	_	_
+4	ma2	ma[ship]	NOUN	N	Number=Sing	3	appos	_	_
+5	sza3-ga	szag[inner_body]	NOUN	N	Case=Gen|Number=Sing	4	GEN	_	_
+6	ki-la2-bi	kila[size]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	3	appos	_	_
+7	1(disz)	1(disz)[one]	NUM	NU	_	8	nummod	_	_
+8	sar	sar[unit]	NOUN	N	Number=Sing	0	_	_	_
+9	6(disz)	6(disz)[one]	NUM	NU	_	11	nummod	_	_
+10	2/3(disz)	2/3(disz)[one]	NUM	NU	_	9	nummod	_	_
+11	gin2	gig[unit]	NOUN	N	Case=Abs|Number=Sing	8	appos	_	_
+12	ki	ki[place]	NOUN	N	Number=Sing	0	_	_	_
+13	ur-{d}szul-pa-e3-ta	Urszulpa'e[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	12	GEN	_	_
+14	mar-sa-asz	marsa[military_depot]	NOUN	N	Number=Sing	0	_	_	_
+15	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+16	nig2-lagar-e	Niglagare[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	15	GEN	_	_
+17	iti	iti[month]	NOUN	N	Number=Sing	15	appos	_	_
+18	pa5-u2-e	Pa'u'e[1]	PROPN	MN	Number=Sing	15	appos	_	_
+19	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+20	en-mah-gal-an-na	Enmahgalanak[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+21	nig2-lagar-e	Niglagare[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+22	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+23	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+24	lugal-gaba	Lugalgaba[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+25	szabra	szabra[chief_administrator]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	24	GEN	_	_

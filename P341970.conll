@@ -1,0 +1,25 @@
+#new_text=P341970
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+2	ab2-mah2	abmah[mature_cow]	NOUN	N	Number=Sing	_	_	_	_
+3	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+4	gu4	gud[ox]	NOUN	N	Number=Sing	_	_	_	_
+5	ga	ga[suckling]	NOUN	N	Number=Sing	ga[milk]	N	_	_
+6	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+7	gu4-gesz	gudgesz[draught_ox]	NOUN	N	Number=Sing	_	_	_	_
+8	3(u)	3(u)[ten]	NUM	NU	_	_	_	_	_
+9	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+10	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	_
+11	bar-su-ga	barsuga[sheep_designation]	VERB	V	_	_	_	_	_
+12	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+13	masz2	masz[goat]	NOUN	N	Number=Sing	masz[interest]	N	_	_
+14	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+15	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+16	szu-e-ne	Szu'ene[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+17	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+18	kas4-ta	Kas[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+19	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	_	_	_	_
+20	lu2-kal-la	Lukala[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	Lukalla[1]	PN	_	Lukala[1][-ra]
+21	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+22	en-mah-ga-an-na	Enmahganna[1]	PROPN	SN	Case=Abs|Number=Sing	_	_	_	_
+23	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-hulu[destroy][-ø]	MID.V.3-SG-P	_	ba-hulu[-ø]

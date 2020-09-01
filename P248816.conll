@@ -1,0 +1,19 @@
+#new_text=P248816
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(gesz2)	2(gesz)[sixty]	NUM	NU	_	5	nummod	_	_
+2	5(u)	5(u)[ten]	NUM	NU	_	1	nummod	_	_
+3	la2	la[hang]	VERB	V	_	4	ABS	_	_
+4	2(disz)	2(disz)[one]	NUM	NU	_	2	nummod	_	_
+5	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+6	3(gesz2)	3(gesz)[sixty]	NUM	NU	_	7	nummod	_	_
+7	masz2	masz[goat]	NOUN	N	Number=Sing	10	ABS	_	_
+8	2(gesz2)	2(gesz)[sixty]	NUM	NU	_	9	nummod	_	_
+9	gu4	gud[ox]	NOUN	N	Case=Abs|Number=Sing	7	appos	_	_
+10	zi-ga-am3	zig[expend]	VERB	V	Number=Sing|Person=3	5	amod	_	_
+11	a-hu-a	Ahuya[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+12	4(u)	4(u)[ten]	NUM	NU	_	13	nummod	_	_
+13	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+14	2(disz)	2(disz)[one]	NUM	NU	_	0	_	_	_
+15	x	_	_	_	_	0	_	_	_
+16	zi-ga	zig[expend]	VERB	V	_	0	_	_	_
+17	nin9-tur-tur-ra-kam	Ninturturra[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	16	appos	_	_

@@ -1,0 +1,22 @@
+#new_text=P113642
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(u)	2(u)[ten]	NUM	NU	_	3	nummod	_	_
+2	3(disz)	3(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	{gi}gur	gur[measuring_vessel]	NOUN	N	Number=Sing	0	_	_	_
+4	en	en[priest]	NOUN	N	Number=Sing	3	appos	_	_
+5	1(barig)-ta	bariga[unit]	NOUN	N	Case=Abl|Number=Sing	3	appos	_	_
+6	ki	ki[place]	NOUN	N	Number=Sing	14	ABL	_	_
+7	lu2-igi-sa6-sa6-ta	Lu'igisasa[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	6	GEN	_	_
+8	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	14	L1	_	_
+9	a-da-ga	Adaga[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	8	GEN	_	_
+10	iti	iti[month]	NOUN	N	Number=Sing	8	appos	_	_
+11	nesag	Nesag[1]	PROPN	MN	Number=Sing	8	appos	_	_
+12	mu	mu[year]	NOUN	N	Number=Sing	14	ABS	_	_
+13	sza3-asz-ru-um{ki}	Szaszrum[1]	PROPN	SN	Case=Abs|Number=Sing	12	appos	_	_
+14	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+15	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+16	ensi2	ensik[ruler]	NOUN	N	Number=Sing	15	appos	_	_
+17	umma{ki}	Umma[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	16	GEN	_	_
+18	a-da-ga	Adaga[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+19	dub-sar	dubsar[scribe]	NOUN	N	Case=Abs|Number=Sing	18	appos	_	_
+20	ARAD2-zu	arad[slave]	NOUN	N	Case=Abs|Number=Sing	0	_	_	_

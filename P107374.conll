@@ -1,0 +1,8 @@
+#new_text=P107374
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	6	GE	_	_
+2	kiszib3	kiszib[sealed_tablet]	NOUN	N	Number=Sing	1	appos	_	_
+3	lu2	lu[person]	NOUN	N	Number=Sing	1	appos	_	_
+4	ensi2	ensik[ruler]	NOUN	N	Number=Sing	1	appos	_	_
+5	ma-da-ke4-ne	mada[land]	NOUN	N	Case=Gen,Gen|Number=Plur	4	GEN	_	_
+6	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_

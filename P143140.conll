@@ -1,0 +1,21 @@
+#new_text=P143140
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	{d}en-lil2-la2	Enlila[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	0	_	_	_
+3	iti	iti[month]	NOUN	N	Number=Sing	2	GEN	_	_
+4	nesag-ta	Nesag[1]	PROPN	MN	Case=Abl|Number=Sing	3	appos	_	_
+5	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+6	min-esz3-sze3	Minesz[1]	PROPN	MN	Number=Sing	5	appos	_	_
+7	en-nun-ga2	ennug[watch]	NOUN	N	Number=Sing	0	_	_	_
+8	ti-la	til[complete]	VERB	V	_	7	amod	_	_
+9	ugula	ugula[overseer]	NOUN	N	Case=Abs|Number=Sing	7	appos	_	_
+10	lugal-ukken-ne2	Lugalukkene[1]	PROPN	PN	Animacy=Hum|Case=Abs|Number=Sing	0	_	_	_
+11	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+12	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	11	GEN	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	15	ABS	_	_
+14	en-mah-gal-an-na	Enmahgalana[1]	PROPN	PN	Animacy=Hum|Case=Abs|Number=Sing	13	appos	_	_
+15	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+16	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+17	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+18	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+19	ku3-sa6-ga	Kusaga[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	18	GEN	_	_

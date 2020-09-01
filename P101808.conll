@@ -1,0 +1,22 @@
+#new_text=P101808
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+2	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ak][-ø]
+3	1/3(disz)	1/3(disz)[one]	NUM	NU	_	_	_	_	_
+4	gin2	gig[unit]	NOUN	N	Number=Sing	_	_	_	_
+5	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+6	sze	sze[unit]	NOUN	N	Number=Sing	sze[barley]	N	_	sze[grain]
+7	...	_	_	_	_	_	_	_	_
+8	3(disz)	3(disz)[one]	NUM	NU	_	3(disz)[one]	3(dish)[one]	_	NU
+9	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ak][-ø]
+10	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+11	gin2	gig[unit]	NOUN	N	Number=Sing	_	_	_	_
+12	igi-6(disz)-gal2	igi6(disz)[one]	NUM	NU	_	_	_	_	_
+13	...	_	_	_	_	_	_	_	_
+14	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+15	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ak][-ø]
+16	1/3(disz)	1/3(disz)[one]	NUM	NU	_	_	_	_	_
+17	gin2	gig[unit]	NOUN	N	Number=Sing	_	_	_	_
+18	1(u)	1(u)[ten]	NUM	NU	_	1(u)[ten]	NU	_	_
+19	sze	sze[unit]	NOUN	N	Number=Sing	sze[barley]	N	_	sze[grain]
+20	{d}suen-...	_	_	_	_	_	_	_	_

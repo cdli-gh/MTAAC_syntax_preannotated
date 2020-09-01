@@ -1,0 +1,23 @@
+#new_text=P106754
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(ban2)	2(ban)[unit]	NOUN	N	Number=Sing	_	_	_	2(ban)[unit]
+2	duh	duh[bran]	NOUN	N	Number=Sing	_	_	_	_
+3	du	gin[quality_designation]	VERB	V	_	gin[quality_designation]	NF.V.ABS	_	du[quality_designation][-ø]
+4	he2-dab5	hedab[worker]	NOUN	N	Number=Sing	_	_	_	_
+5	gu7-de3	gu[eat]	VERB	V	_	_	_	_	_
+6	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[sealed_tablet]	N	_	_
+7	ensi2	ensik[ruler]	NOUN	N	Case=Gen|Number=Sing	ensik[ruler][-ra]	N.DAT-H	_	ensik[ruler][-ak][-’a]
+8	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month]-
+9	diri	Diri[1]	PROPN	MN	Number=Sing	dirig[excess][-ø]	N.ABS	_	dirig[exceed][-a]
+10	{d}szul-gi	Szulgi[1]	PROPN	RN	Animacy=Hum|Number=Sing	Szulgi[1][-ra]	RN.DAT-H	_	Szulgi[1]
+11	nita	nita[male]	NOUN	N	Number=Sing	_	_	_	_
+12	kal-ga	kalag[strong]	VERB	V	_	kalag[strong][-ø]	NF.V.SUB	_	_
+13	lugal	lugal[king]	NOUN	N	Number=Sing	lugal[king][-ak]	N.GEN	_	lugal[king][-ø]
+14	uri5{ki}-ma	Urim[1]	PROPN	SN	Case=Gen|Number=Sing	Urim[1]-ak[-'a]	SN.GEN.L1	_	Urim[1][-ak]
+15	lugal	lugal[king]	NOUN	N	Number=Sing	lugal[king][-ak]	N.GEN	_	lugal[king][-ø]
+16	an-ub-da	anubda[quarter]	NOUN	N	Number=Sing	_	_	_	_
+17	limmu2-ba	limmu[four]	NUM	NU	Case=Gen,Abs	_	_	_	_
+18	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	Urlisi[1]	RN	_	Urlisi[1][-e]
+19	ensi2	ensik[ruler]	NOUN	N	Number=Sing	ensik[ruler][-ak]	N.GEN	_	ensik[ruler][-ra]
+20	umma{ki}	Umma[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	Umma[1][-ak][-ak]	SN.GEN.GEN	_	Umma[1][-ak][-ra]
+21	ARAD2-zu	arad[slave]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_

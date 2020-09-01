@@ -1,0 +1,24 @@
+#new_text=P226633
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	{d}mes-lam-ta-e3-a	Meslamta'e'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+2	lugal	lugal[king]	NOUN	N	Number=Sing	lugal[king][-ak]	N.GEN	_	lugal[king][-ak]
+3	a2	a[arm]	NOUN	N	Number=Sing	_	_	_	_
+4	zi-da	zid[right]	VERB	V	_	_	_	_	_
+5	lagasz{ki}-ke4	Lagasz[1]	PROPN	SN	Animacy=Nhum|Case=Gen|Number=Sing	_	_	_	_
+6	nam-ti-il	namtil[life]	NOUN	N	Number=Sing	_	_	_	_
+7	{d}szul-gi	Szulgi[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+8	nita	nita[male]	NOUN	N	Number=Sing	_	_	_	_
+9	kal-ga	kalag[strong]	VERB	V	_	_	_	_	_
+10	lugal	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+11	uri5{ki}-ma-ka-sze3	Urim[1]	PROPN	SN	Case=Gen,Gen|Number=Sing	_	_	_	_
+12	ki-lu5-la	Kilula[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+13	gu-za-la2	guzala[official]	NOUN	N	Number=Sing	_	_	_	_
+14	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+15	ur-ba-gara2-ke4	Urbagara[1]	PROPN	PN	Animacy=Hum|Case=Gen,Erg|Number=Sing	_	_	_	_
+16	mu-na-dim2	dim[create]	VERB	V	Number=Sing|Person=3	_	_	_	_
+17	kiszib3-ba	kiszib[seal]	NOUN	N	Animacy=Nhum|Number=Sing	_	_	_	_
+18	lugal-mu	lugal[king]	NOUN	N	Number=Sing	_	_	_	_
+19	gesztu3	gesztug[wisdom]	NOUN	N	Number=Sing	_	_	_	_
+20	nig2-sa6-ga-ka-ni	nigsaga[goodness]	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+21	ga-an-ti-il	til[live]	VERB	V	_	_	_	_	_
+22	mu-bi	mu[name]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	_	_	_	_

@@ -1,0 +1,17 @@
+#new_text=P136370
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	_	_	_	_
+2	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	nigSZID[account]-ak	N.GEN	_	nigkas[account]-ak
+3	gu3-de2-a	Gude'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	Gude'a[1][-ak]	PN.GEN	_	Gude'a[1][-ra]
+4	kuruszda	kuruszda[animal_fattener]	NOUN	N	Case=Gen|Number=Sing	kuruszda[animal_fattener][-ø]	N.ABS	_	kuruszda[animal_fattener][-ak][-ra]
+5	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+6	5(disz)-kam	5(disz)[one]	NUM	NU	Case=Gen,Gen,Abs	_	_	_	_
+7	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	i-gal[be][-ø]	FIN.V.3-SG-S	_	_
+8	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+9	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	Kimasz[1]	SN	_	Kimasz[1][-ø]
+10	ba-hul-ta	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+11	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+12	{d}amar-{d}suen	Amarsuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	Amarsuen[1][-ø]	RN.ABS	_	Amarsuen[1][-ra][-ø]
+13	lugal	lugal[king]	NOUN	N	Case=Erg|Number=Sing	_	_	_	_
+14	ur-bi2-lum{ki}	Urbilum[1]	PROPN	SN	Case=Abs|Number=Sing	_	_	_	_
+15	mu-hul-sze3	n]	VERB	V	Number=Sing|Person=3	_	_	_	_

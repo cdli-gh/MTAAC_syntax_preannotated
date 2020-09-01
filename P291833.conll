@@ -1,0 +1,17 @@
+#new_text=P291833
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+2	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+3	mu-kux(DU)	mukur[delivery]	NOUN	N	Case=Abs|Number=Sing	mu-[n]-kur[enter][-ø][-a]	VEN.L1-SYN.V.3-SG-S.SUB	_	mu[-n]-kur[enter][-ø][-a]
+4	ur-e2-nun-na	Urenunna[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+5	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+6	na-silim	Nasilim[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+7	da-da-ga	Dadaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Erg|Number=Sing	_	_	_	_
+8	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	szu[hand]	N	_	_
+9	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+10	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+11	min-esz3	Minesz[1]	PROPN	MN	Number=Sing	_	_	_	_
+12	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+13	us2-sa	us[follow]	VERB	V	_	_	_	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+15	us2-sa-a-bi	us[follow]	VERB	V	Number=Sing|Person=3	_	_	_	_

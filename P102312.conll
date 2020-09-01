@@ -1,0 +1,20 @@
+#new_text=P102312
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	3(disz)	3(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	…	[_]	NOUN	N	Case=Abs|Number=Sing	11	ABS	_	_
+3	u4	ud[day]	NOUN	N	Number=Sing	2	appos	_	_
+4	1(u)	1(u)[ten]	NUM	NU	_	3	nummod	_	_
+5	3(disz)	3(disz)[one]	NUM	NU	_	4	nummod	_	_
+6	n	[_]	_	_	Number=_	7	ABS	_	_
+7	ba-zal	zal[pass]	VERB	V	Number=Sing|Person=3|Voice=Mid	11	ABL	_	_
+8	ki	ki[place]	NOUN	N	Number=Sing	7	appos	_	_
+9	ab-ba-sa6-ga-ta	Abbasaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	8	GEN	_	_
+10	{d}szul-gi-a-a-mu	Szulgi’ayamu[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	11	ERG	_	_
+11	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+12	iti	iti[month]	NOUN	N	Number=Sing	17	L1	_	_
+13	masz-da3-gu7	Maszdagu[1]	PROPN	MN	Number=Sing	12	appos	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	17	ABS	_	_
+15	{d}gu-za	guza[chair]	NOUN	N	Number=Sing	14	appos	_	_
+16	{d}en-lil2-la2	Enlil[1]	PROPN	DN	Animacy=Hum|Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	ba-dim2	dim[create]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+18	3(disz)	3(disz)[one]	NUM	NU	_	0	_	_	_

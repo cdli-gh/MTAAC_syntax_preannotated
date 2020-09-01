@@ -1,0 +1,10 @@
+#new_text=P227109
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	{d}szul-gi	Szulgi[1]	PROPN	RN	Animacy=Hum|Number=Sing	0	_	_	_
+2	nita	nita[male]	NOUN	N	Number=Sing	0	_	_	_
+3	kal-ga	kalag[strong]	VERB	V	_	2	amod	_	_
+4	lugal	lugal[king]	NOUN	N	Number=Sing	0	_	_	_
+5	uri5{ki}-ma	Urim[1]	PROPN	SN	Case=Gen|Number=Sing	4	GEN	_	_
+6	lugal	lugal[king]	NOUN	N	Number=Sing	0	_	_	_
+7	an-ub-da	anubda[quarter]	NOUN	N	Number=Sing	0	_	_	_
+8	limmu2-ba	limmu[four]	NUM	NU	Case=Gen	7	GEN	_	_

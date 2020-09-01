@@ -1,0 +1,17 @@
+#new_text=P136081
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	gin2	gig[unit]	NOUN	N	Number=Sing	0	_	_	_
+3	ku3	kug[silver]	NOUN	N	Number=Sing	2	appos	_	_
+4	ku6	kud[fish]	NOUN	N	Number=Sing	2	appos	_	_
+5	mun	mun[salt]	NOUN	N	Number=Sing	2	appos	_	_
+6	ki	ki[place]	NOUN	N	Number=Sing	2	appos	_	_
+7	lugal-nir	Lugalnir[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	6	GEN	_	_
+8	szu-nir	szunir[emblem]	NOUN	N	Number=Sing	0	_	_	_
+9	gu2-edin-na	edina[1]	PROPN	SN	Case=Gen|Number=Sing	8	GEN	_	_
+10	giri3	giri[foot]	NOUN	N	Number=Sing	0	_	_	_
+11	ur-{d}szul-pa-e3	Urszulpa'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+12	ku3-dim2	kugdim[smith]	NOUN	N	Case=Gen|Number=Sing	11	GEN	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+14	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	0	_	_	_
+15	lugal	lugal[king]	NOUN	N	Number=Sing	0	_	_	_

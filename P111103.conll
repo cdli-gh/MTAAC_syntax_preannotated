@@ -1,0 +1,16 @@
+#new_text=P111103
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+2	ansze	ansze[donkey]	NOUN	N	Number=Sing	_	_	_	_
+3	hi-a	hi[mix]	VERB	V	_	_	_	_	_
+4	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+5	lu2-hu-rim3{ki}-ta	Luhurim[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+6	lu2-na	Luna[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	_	_	_	_
+7	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
+8	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+9	ezem-{d}li9-si4-na	Ezemlisina[1]	PROPN	MN	Number=Sing	_	_	_	_
+10	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+11	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+12	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Case=Gen,Abs|Number=Sing	_	_	_	_
+13	masz-e	masz[goat]	NOUN	N	Animacy=Nhum|Number=Sing	_	_	_	_
+14	i3-pa3	pad[find]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_

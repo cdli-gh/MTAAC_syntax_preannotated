@@ -1,0 +1,23 @@
+#new_text=P209859
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(asz)	1(asz)[one]	NUM	NU	_	2	nummod	_	_
+2	sze	sze[barley]	NOUN	N	Number=Sing	0	_	_	_
+3	gur	gur[unit]	NOUN	N	Number=Sing	2	appos	_	_
+4	du10-ge	Duge[1]	PROPN	PN	Animacy=Hum|Number=Sing	2	appos	_	_
+5	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	0	_	_	_
+6	dingir-ra-bi	Dingirrabi[1]	PROPN	PN	Animacy=Hum|Number=Sing	5	appos	_	_
+7	1(disz)	1(disz)[one]	NUM	NU	_	8	nummod	_	_
+8	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+9	i-di3-dingir	Ididingir[1]	PROPN	PN	Animacy=Hum|Number=Sing	8	appos	_	_
+10	3(barig)	3(bariga)[unit]	NOUN	N	Number=Sing	0	_	_	_
+11	na-ki-ki	Nakiki[1]	PROPN	PN	Animacy=Hum|Number=Sing	10	appos	_	_
+12	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	0	_	_	_
+13	nu-hi-dingir	Nuhidingir[1]	PROPN	PN	Animacy=Hum|Number=Sing	12	appos	_	_
+14	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	0	_	_	_
+15	ti-ti	Titi[1]	PROPN	PN	Animacy=Hum|Number=Sing	14	appos	_	_
+16	szunigin	szunigin[total]	NOUN	N	Number=Sing	0	_	_	_
+17	3(asz)	3(asz)[one]	NUM	NU	_	18	nummod	_	_
+18	4(barig)	4(barig)[unit]	NOUN	N	Number=Sing	0	_	_	_
+19	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+20	szu-nir-ru-ku	Szunirruku[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+21	maszkim	maszkim[administrator]	NOUN	N	Number=Sing	0	_	_	_

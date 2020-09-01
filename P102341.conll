@@ -1,0 +1,21 @@
+#new_text=P102341
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	sila4	sila[lamb]	NOUN	N	Case=Abs|Number=Sing	0	_	_	_
+3	3(disz)	3(disz)[one]	NUM	NU	_	4	nummod	_	_
+4	masz2	masz[goat]	NOUN	N	Case=Abs|Number=Sing	8	ABS	_	_
+5	ki	ki[place]	NOUN	N	Number=Sing	8	ABL	_	_
+6	a-ba-{d}en-lil2-gin7-ta	Aba'enlilgin[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	5	GEN	_	_
+7	du11-ga	Duga[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	8	ERG	_	_
+8	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+9	iti	iti[month]	NOUN	N	Number=Sing	15	L1	_	_
+10	ezem-me-ki-gal2	Ezemmekigal[1]	PROPN	MN	Number=Sing	9	appos	_	_
+11	mu	mu[year]	NOUN	N	Number=Sing	15	ABS	_	_
+12	e2	e[house]	NOUN	N	Number=Sing	11	appos	_	_
+13	{d}szara2	Szara[1]	PROPN	DN	Animacy=Hum|Number=Sing	12	GEN	_	_
+14	umma{ki}-ka	Umma[1]	PROPN	SN	Case=Gen,Gen,Abs|Number=Sing	13	GEN	_	_
+15	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+16	ur-mes	Urmes[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+17	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+18	la-na	Lana[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+19	kuruszda	kuruszda[fattener]	NOUN	N	Case=Gen|Number=Sing	18	GEN	_	_

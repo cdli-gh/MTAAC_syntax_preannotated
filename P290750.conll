@@ -1,0 +1,26 @@
+#new_text=P290750
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	6(disz)[one][-sze]
+2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+4	2(disz)-sze3	2(disz)[one]	NUM	NU	_	_	_	_	_
+5	gesz-gi-ta	gi[thicket]	NOUN	N	Case=Abl|Number=Sing	_	_	_	_
+6	gi	gi[reed]	NOUN	N	Number=Sing	gi[reed][-ø]	N.ABS	_	_
+7	ga6-ga2	gag[carry]	VERB	V	_	_	_	_	_
+8	u3	u[and]	CCONJ	CNJ	_	_	_	_	_
+9	ma2	ma[ship]	NOUN	N	Number=Sing	ma[ship][-ø]	N.ABS	_	_
+10	zi3	zid[flour]	NOUN	N	Number=Sing	zid[flour][-ø]	N.ABS	_	_
+11	sig15-ga	sig[grind]	VERB	V	_	_	_	_	_
+12	gi	gi[reed]	NOUN	N	Case=Gen|Number=Sing	gi[reed][-ø]	N.ABS	_	_
+13	du3-a	du[build]	VERB	V	_	du[build]-a[-sze]	NF.V.PT.TERM	_	_
+14	ugula	ugula[overseer]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+15	lil-la	Lila[1]	PROPN	PN	Animacy=Hum|Case=Abs|Number=Sing	_	_	_	_
+16	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[sealed_tablet]	N	_	_
+17	ur-dun	Urdun[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+18	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+19	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Case=Abs|Number=Sing	Szusuen[1][-ø]	RN.ABS	_	Szusuen[1][-ak]
+20	lugal	lugal[king]	NOUN	N	Case=Abs|Number=Sing	lugal[king][-ak]	N.GEN	_	lugal[king][-ak][-ø]
+21	ur-dun	Urdun[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+22	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	dubsar[scribe][-ak]	N.GEN	_	dubsar[scribe][-ø]
+23	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+24	da-da	Dada[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	Dada[1]	PN	_	Dada[1][-ra]

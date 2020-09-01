@@ -1,0 +1,26 @@
+#new_text=P122096
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+2	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+3	{uruda}ha-bu3-da	habuda[hoe]	NOUN	N	Number=Sing	_	_	_	_
+4	ki-la2-bi	kila[weight]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	kila[weight]-bi	N.3-SG-NH-POSS	_	kila[size]-bi
+5	1(u)	1(u)[ten]	NUM	NU	_	1(u)[ten]	NU	_	_
+6	3(disz)	3(disz)[one]	NUM	NU	_	3(disz)[one]	_	_	3(dish)[one]
+7	5/6(disz)	5/6(disz)[one]	NUM	NU	_	5/6(disz)[one]	N	_	_
+8	ma-na	mana[unit]	NOUN	N	Number=Sing	mana[unit][-ø]	N.ABS	_	_
+9	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+10	gin2	gig[unit]	NOUN	N	Case=Abs|Number=Sing	gig[measuring_tool]	N	_	_
+11	kin	kig[work]	NOUN	N	Number=Sing	_	_	_	_
+12	til-la	til[complete]	VERB	V	_	til[complete]-a	V.SUB	_	_
+13	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+14	da-da-ga-ta	Dadaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+15	ensi2-ke4	ensik[ruler]	NOUN	N	Case=Erg|Number=Sing	_	_	_	_
+16	in-la2	la[weigh]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	i-n-la[weigh][-esz]	FIN.3-SG-H-A.V.3-SG-P	_	_
+17	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month]-
+18	szu-numun	Szunumun[1]	PROPN	MN	Number=Sing	Szunumun[1][-’a]	MN.L1	_	_
+19	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+20	us2-sa	us[follow]	VERB	V	_	us[follow]-a	V.SUB	_	us[follow]-a
+21	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	Kimasz[1]	SN	_	Kimasz[1][-ø]
+22	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+23	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+24	us2-sa-bi	us[follow]	VERB	V	Number=Sing|Person=3	us[follow]-a-bi	NF.V.SUB.3-SG-NH-POSS	_	_

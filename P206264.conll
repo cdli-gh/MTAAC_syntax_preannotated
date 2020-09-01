@@ -1,0 +1,11 @@
+#new_text=P206264
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	0	_	_	_
+2	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	1	appos	_	_
+3	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	1	appos	_	_
+4	sipa	sipa[sheepherd]	NOUN	N	Number=Sing	1	appos	_	_
+5	udu-gi-ke4-ne	udugi[native_sheep]	NOUN	N	Case=Gen,Gen|Number=Plur	4	GEN	_	_
+6	giri3	giri[foot]	NOUN	N	Number=Sing	0	_	_	_
+7	lu2-kal-la	Lukala[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	6	GEN	_	_
+8	sza3	szag[heart]	NOUN	N	Number=Sing	6	appos	_	_
+9	gu2-ab-ba{ki}	Guabba[1]	PROPN	SN	Case=Gen|Number=Sing	8	GEN	_	_

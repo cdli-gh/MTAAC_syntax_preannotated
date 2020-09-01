@@ -1,0 +1,27 @@
+#new_text=P139771
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+3	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	1(bariga)[unit][-ø]	N.ABS	_	1(bariga)[measuring_container]
+4	8(disz)	8(disz)[one]	NUM	NU	_	_	_	_	_
+5	ug3-IL2	uggaga[porter]	NOUN	N	Number=Sing	_	_	_	_
+6	4(ban2)	4(ban)[unit]	NOUN	N	Number=Sing	_	_	_	_
+7	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+8	1(u)	1(u)[ten]	NUM	NU	_	1(u)[ten]	NU	_	_
+9	3(disz)-sze3	3(disz)[one]	NUM	NU	_	_	_	_	_
+10	kun-zi-da	kunzida[weir]	NOUN	N	Number=Sing	_	_	_	_
+11	i7	id[river]	NOUN	N	Number=Sing	_	_	_	_
+12	si-sa2-ka	Sisa[1]	PROPN	WN	Case=Gen|Number=Sing	_	_	_	_
+13	gub-ba	gub[assigned]	VERB	V	_	gub[stand]-a	NF.V.PT	_	gub[stand]-a
+14	ugula	ugula[overseer]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+15	ARAD2	Arad[1]	PROPN	PN	Animacy=Hum|Case=Abs|Number=Sing	Arad[1][-ak][-ø]	PN.GEN.ABS	_	arad[slave][-ra]
+16	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[sealed_tablet]	N	_	_
+17	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	Luszara[1][-e]	PN.ERG	_	Luszara[1][-ak][-ra]
+18	mu	mu[year]	NOUN	N	Number=Sing	_	_	_	_
+19	en	en[priest]	NOUN	N	Number=Sing	_	_	_	_
+20	ga-esz{ki}	Ga'esz[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	_	_	_	_
+21	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-hug[hire][-ø][-ø]	MID.V.3-SG-S.ABS	_	ba-hug[hire][-ø][-a]
+22	lu2-{d}szara2	Luszara[1]	PROPN	PN	Animacy=Hum|Number=Sing	Luszara[1][-ra]	PN.DAT-H	_	Luszara[1][-ak]
+23	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	dubsar[scribe][-ak]	N.GEN	_	dubsar[scribe][-ø]
+24	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+25	iri-bar-re	Iribare[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_

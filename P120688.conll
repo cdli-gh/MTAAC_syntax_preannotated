@@ -1,0 +1,24 @@
+#new_text=P120688
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+2	la2	la[hang]	VERB	V	_	la[hang][-a]	V.SUB	_	lal[small]
+3	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+4	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+5	guz-za	guza[chair]	NOUN	N	Case=Gen|Number=Sing	_	_	_	_
+6	du	gin[quality_designation]	VERB	V	_	du[quality_designation][-ø]	NF.V.ABS	_	_
+7	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+8	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+9	usz-bar	uszbar[garment_type]	NOUN	N	Case=Gen|Number=Sing	uszbar[garment]	N	_	_
+10	siki-bi	siki[wool]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	_	_	_	_
+11	1(asz)	1(asz)[one]	NUM	NU	_	_	_	_	_
+12	gu2	gun[unit]	NOUN	N	Number=Sing	_	_	_	_
+13	la2	la[hang]	VERB	V	_	la[hang][-a]	V.SUB	_	lal[small]
+14	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+15	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+16	siki-gi	sikigi[type_of_wool]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+17	izi-gu7-bi	izigu[loss]	NOUN	N	Animacy=Nhum|Number=Sing	_	_	_	_
+18	nu-zi	zi[cut]	VERB	V	Polarity=Neg	_	_	_	_
+19	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+20	ur-nigar{gar}-ta	Urnigar[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+21	e2-gal	egal[palace]	NOUN	N	Animacy=Nhum|Number=Sing	_	_	_	_
+22	kux(KWU147)-ra	kur[enter]	VERB	V	_	_	_	_	_

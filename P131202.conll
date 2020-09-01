@@ -1,0 +1,35 @@
+#new_text=P131202
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(u)	5(u)[ten]	NUM	NU	_	3	nummod	_	_
+2	6(asz)	6(asz)[one]	NUM	NU	_	1	nummod	_	_
+3	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	0	_	_	_
+4	1(ban2)	1(ban)[unit]	NOUN	N	Number=Sing	0	_	_	_
+5	9(disz)	9(disz)[one]	NUM	NU	_	6	nummod	_	_
+6	sila3	sila[unit]	NOUN	N	Number=Sing	0	_	_	_
+7	zi3	zid[flour]	NOUN	N	Number=Sing	0	_	_	_
+8	sig15 sig[flour_type] N	_	_	_	_	0	_	_	_
+9	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+10	lugal	lugal[king]	NOUN	N	Case=Gen|Number=Sing	9	GEN	_	_
+11	2(u)	2(u)[ten]	NUM	NU	_	13	nummod	_	_
+12	2(asz)	2(asz)[one]	NUM	NU	_	11	nummod	_	_
+13	4(barig)	4(bariga)[unit]	NOUN	N	Number=Sing	0	_	_	_
+14	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	0	_	_	_
+15	zi3	zid[flour]	NOUN	N	Number=Sing	0	_	_	_
+16	ISZ isz[flour_type] N	_	_	_	_	0	_	_	_
+17	ba-ba	baba[porridge]	NOUN	N	Number=Sing	0	_	_	_
+18	gur	gur[unit]	NOUN	N	Case=Abs|Number=Sing	17	appos	_	_
+19	ki	ki[place]	NOUN	N	Number=Sing	0	_	_	_
+20	ur-{d}ig-alim	Urigalim[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+21	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+22	u18-da-a-ta Udaya[1][-ak][-ak]-ta PN.GEN.GEN.ABL	_	_	_	_	0	_	_	_
+23	ur-{d}suen	Ursuen[1]	PROPN	PN	Animacy=Hum|Number=Sing	27	ERG	_	_
+24	dumu	dumu[child]	NOUN	N	Number=Sing	23	appos	_	_
+25	lu2-kal-la	Lukala[1]	PROPN	PN	Animacy=Hum|Case=Gen,Erg|Number=Sing	24	GEN	_	_
+26	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	27	L3-NH	_	_
+27	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+28	iti	iti[month]	NOUN	N	Number=Sing	33	L1	_	_
+29	szu-numun	Szunumun[1]	PROPN	MN	Number=Sing	28	appos	_	_
+30	mu	mu[year]	NOUN	N	Number=Sing	28	appos	_	_
+31	us2-sa	us[follow]	VERB	V	_	30	amod	_	_
+32	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	33	ABS	_	_
+33	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

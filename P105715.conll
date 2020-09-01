@@ -1,0 +1,18 @@
+#new_text=P105715
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	...	_	_	_	_	0	_	_	_
+2	x	_	_	_	_	0	_	_	_
+3	x	_	_	_	_	0	_	_	_
+4	...	_	_	_	_	0	_	_	_
+5	x	_	_	_	_	0	_	_	_
+6	x	_	_	_	_	0	_	_	_
+7	nu	nu[not]	VERB	V	_	0	_	_	_
+8	ama-ni	ama[mother]	NOUN	N	Animacy=Hum|Number=Sing	0	_	_	_
+9	...	_	_	_	_	0	_	_	_
+10	{d}en-lil2-mu	Enlilmu[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+11	...	_	_	_	_	0	_	_	_
+12	x	_	_	_	_	0	_	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+14	ma-da	mada[land]	NOUN	N	Number=Sing	0	_	_	_
+15	...	_	_	_	_	0	_	_	_
+16	x-ir-e	_	_	_	_	0	_	_	_

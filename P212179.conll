@@ -1,0 +1,14 @@
+#new_text=P212179
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	12	GEN	_	_
+2	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	1	appos	_	_
+3	sag-nig2-gur11-ra	sagnigGAra[assets]	NOUN	N	Number=Sing	1	appos	_	_
+4	u3	u[and]	CCONJ	CNJ	_	3	cc	_	_
+5	zi-ga	ziga[expenditure]	NOUN	N	Number=Sing	3	conj	_	_
+6	szu-ma-ma	Szumana[1]	PROPN	PN	Animacy=Hum|Case=Gen,Gen|Number=Sing	5	GEN	_	_
+7	iti	iti[month]	NOUN	N	Number=Sing	6	appos	_	_
+8	1(u)	1(u)[ten]	NUM	NU	_	7	nummod	_	_
+9	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	8	nummod	_	_
+10	mu	mu[year]	NOUN	N	Number=Sing	12	ABS	_	_
+11	sza-asz-ru{ki}	Szaszru[1]	PROPN	SN	Case=Abs|Number=Sing	10	appos	_	_
+12	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

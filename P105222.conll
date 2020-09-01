@@ -1,0 +1,24 @@
+#new_text=P105222
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	0	_	_	_
+2	e2-tum	bitum[~administration]	NOUN	N	Number=Sing	1	appos	_	_
+3	sag-nig2-gur11-ra	sagnigGAra[assets]	NOUN	N	Number=Sing	1	appos	_	_
+4	u3	u[and]	CCONJ	CNJ	_	3	cc	_	_
+5	zi-ga	ziga[expenditure]	NOUN	N	Number=Sing	3	conj	_	_
+6	ta2-hi-isz-a-tal	Tahiszatal[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	5	GEN	_	_
+7	iti	iti[month]	NOUN	N	Number=Sing	1	appos	_	_
+8	ezem-{d}nin-a-zu	Ezemninazu[1]	PROPN	MN	Number=Sing	1	appos	_	_
+9	u4	ud[day]	NOUN	N	Number=Sing	1	appos	_	_
+10	1(u)	1(u)[ten]	NUM	NU	_	9	nummod	_	_
+11	8(disz)	8(disz)[one]	NUM	NU	_	10	nummod	_	_
+12	zal-la-ta	zal[pass]	VERB	V	_	8	amod	_	_
+13	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+14	sze-sag11-ku5-sze3	Szesagku[1]	PROPN	MN	Number=Sing	13	appos	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	13	appos	_	_
+16	7(disz)	7(disz)[one]	NUM	NU	_	15	nummod	_	_
+17	u4	ud[day]	NOUN	N	Number=Sing	13	appos	_	_
+18	1(u)	1(u)[ten]	NUM	NU	_	17	nummod	_	_
+19	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	18	nummod	_	_
+20	mu	mu[year]	NOUN	N	Number=Sing	22	ABS	_	_
+21	sza-asz-ru{ki}	Szaszru[1]	PROPN	SN	Case=Abs|Number=Sing	20	appos	_	_
+22	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

@@ -1,0 +1,25 @@
+#new_text=P140816
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	sila3	sila[unit]	NOUN	N	Number=Sing	6	ABS	_	_
+3	i3-szah2	iszah[lard]	NOUN	N	Case=Abs|Number=Sing	2	appos	_	_
+4	ug3-IL2	uggaga[porter]	NOUN	N	Number=Sing	6	ERG	_	_
+5	tug2-ba-ke4	tugba[textile_ration]	NOUN	N	Case=Gen,Erg|Number=Sing	4	GEN	_	_
+6	ib2-szesz4	szesz[anoint]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+7	i3	i[oil]	NOUN	N	Number=Sing	0	_	_	_
+8	e2-ga	ega[dairy]	NOUN	N	Case=Gen|Number=Sing	7	GEN	_	_
+9	ki	ki[place]	NOUN	N	Number=Sing	7	appos	_	_
+10	al-la-ta	Ala[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	9	GEN	_	_
+11	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+12	a-kal-la	Akala[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	11	GEN	_	_
+13	giri3	giri[foot]	NOUN	N	Number=Sing	0	_	_	_
+14	da-da-ga	Dadaga[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	13	GEN	_	_
+15	mu	mu[year]	NOUN	N	Number=Sing	18	ABS	_	_
+16	en	en[priest]	NOUN	N	Number=Sing	15	appos	_	_
+17	eridu{ki}	Eridu[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	16	GEN	_	_
+18	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+19	a-kal-la	Akala[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+20	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+21	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+22	ur-nigar{gar}	Urnigar[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	21	GEN	_	_
+23	szusz3	kusz[cattle_manager]	NOUN	N	Case=Gen|Number=Sing	21	GEN	_	_

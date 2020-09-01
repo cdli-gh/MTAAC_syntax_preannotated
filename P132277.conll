@@ -1,0 +1,21 @@
+#new_text=P132277
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(gesz2)	1(gesz)[sixty]	NUM	NU	_	4	nummod	_	_
+2	2(u)	2(u)[ten]	NUM	NU	_	1	nummod	_	_
+3	1(asz)	1(asz)[one]	NUM	NU	_	1	nummod	_	_
+4	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	15	TERM.GEN.ABS	_	_
+5	sze	sze[barley]	NOUN	N	Number=Sing	4	appos	_	_
+6	gur	gur[unit]	NOUN	N	Number=Sing	4	appos	_	_
+7	lugal	lugal[king]	NOUN	N	Case=Gen|Number=Sing	6	GEN	_	_
+8	sza3-gal	szaggal[food]	NOUN	N	Number=Sing	4	appos	_	_
+9	erin2	erin[people]	NOUN	N	Number=Sing	4	appos	_	_
+10	nu-dab5-sze3	dab[seize]	VERB	V	Polarity=Neg	9	amod	_	_
+11	ki	ki[place]	NOUN	N	Number=Sing	15	ABL	_	_
+12	lu2-gi-na-ta	Lugina[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	11	GEN	_	_
+13	ur-sa6-ga	Ursaga[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	15	ERG	_	_
+14	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	15	L3-NH	_	_
+15	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+16	mu	mu[year]	NOUN	N	Number=Sing	19	ABS	_	_
+17	en	en[priest]	NOUN	N	Number=Sing	16	appos	_	_
+18	eridu{ki}	Eridu[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	17	GEN	_	_
+19	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

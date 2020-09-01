@@ -1,0 +1,15 @@
+#new_text=P135937
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	3(dish)[one]
+2	{gi}kaskal	kaskal[travel_basket]	NOUN	N	Number=Sing	kaskal[basket]	N	_	_
+3	zi3-gu	zidgu[flour_type]	NOUN	N	Number=Sing	zidgu[]flour	N	_	_
+4	diri-sze3	dirig[excess]	NOUN	N	Number=Sing	_	_	_	_
+5	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+6	a-gu-ta	Agu[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+7	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[sealed_tablet]	N	_	_
+8	{d}szara2-he2-gal2	Szarahegal[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+9	sza3	szag[heart]	NOUN	N	Number=Sing	szag[heart]	_	_	_
+10	bala-a	bala[tax]	NOUN	N	Case=Gen|Number=Sing	bala[tax]-’a	N.L1	_	bala[tax]-a
+11	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+12	ma2	ma[ship]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+13	ba-ab-du8	du[caulk]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

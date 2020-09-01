@@ -1,0 +1,21 @@
+#new_text=P204912
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(u)	1(u)[ten]	NUM	NU	_	_	_	_	_
+2	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+3	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+4	da-ba-tum	dabatum[textile_type]	NOUN	N	Number=Sing	_	_	_	_
+5	ki-la2-bi	kila[weight]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	_	_	_	_
+6	5(u)	5(u)[ten]	NUM	NU	_	_	_	_	_
+7	6(disz)	6(disz)[one]	NUM	NU	_	_	_	_	_
+8	2/3(disz)	2/3(disz)[one]	NUM	NU	_	_	_	_	_
+9	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+10	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+11	ki-la2	kila[weight]	NOUN	N	Number=Sing	_	_	_	_
+12	tag-ga	tag[weigh]	VERB	V	_	_	_	_	_
+13	mu-kux(DU)	mukur[delivery]	NOUN	N	Number=Sing	mu-[n]-kur[enter][-ø][-a]	VEN.L1-SYN.V.3-SG-S.SUB	_	mu[-n]-kur[enter][-ø][-a]
+14	lugal-uszur4	Lugaluszur[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+16	ezem-{d}szul-gi	Ezemszulgi[1]	PROPN	MN	Number=Sing	Ezemszulgi[1]	MN	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+18	hu-uh2-nu-ri{ki}	Huhnuri[1]	PROPN	SN	Case=Gen|Number=Sing	_	_	_	_
+19	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-hulu[destroy][-ø]	MID.V.3-SG-P	_	ba-hulu[-ø]

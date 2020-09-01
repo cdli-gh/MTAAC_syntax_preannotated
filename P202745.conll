@@ -1,0 +1,22 @@
+#new_text=P202745
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	5	ERG	_	_
+2	sze	sze[barley]	NOUN	N	Number=Sing	1	appos	_	_
+3	erin2-e	erin[people]	NOUN	N	Case=Erg|Number=Sing	1	appos	_	_
+4	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	5	L3-NH	_	_
+5	ti-a	ti[receive]	VERB	V	_	0	_	_	_
+6	mu	mu[year]	NOUN	N	Number=Sing	9	ABS	_	_
+7	en	en[priest]	NOUN	N	Number=Sing	6	appos	_	_
+8	eridu{ki}-ga	Eridug[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	7	GEN	_	_
+9	ba-hun-ga2-sze3	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+10	nu-dab5	nudab[worker]	NOUN	N	Number=Sing	20	L1	_	_
+11	u3	u[and]	CCONJ	CNJ	_	10	cc	_	_
+12	he2-dab5-me	hedab[worker]	NOUN	N	Number=Plur	10	conj	_	_
+13	gu2	gu[bank]	NOUN	N	Number=Sing	10	appos	_	_
+14	i7	id[river]	NOUN	N	Number=Sing	10	appos	_	_
+15	nigin6{ki}-sze3-du	Niginszedu[1]	PROPN	WN	Case=Gen|Number=Sing	14	GEN	_	_
+16	mu	mu[year]	NOUN	N	Number=Sing	15	appos	_	_
+17	us2-sa	us[follow]	VERB	V	_	16	amod	_	_
+18	bad3	bad[wall]	NOUN	N	Number=Sing	20	ABS	_	_
+19	ma-da	mada[land]	NOUN	N	Case=Gen,Abs|Number=Sing	18	GEN	_	_
+20	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

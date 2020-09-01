@@ -1,0 +1,22 @@
+#new_text=P143186
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	11	L1	_	_
+2	zi-ga	ziga[expenditure]	NOUN	N	Number=Sing	1	appos	_	_
+3	ki	ki[place]	NOUN	N	Number=Sing	1	appos	_	_
+4	na-sa6	Nasa[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	3	GEN	_	_
+5	iti	iti[month]	NOUN	N	Number=Sing	1	appos	_	_
+6	ezem-an-na	Ezemanna[1]	PROPN	MN	Number=Sing	1	appos	_	_
+7	mu	mu[year]	NOUN	N	Number=Sing	11	ABS	_	_
+8	ha-ar-szi{ki}	Harszi[1]	PROPN	SN	Number=Sing	7	appos	_	_
+9	u3	u[and]	CCONJ	CNJ	_	8	cc	_	_
+10	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	8	conj	_	_
+11	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+12	{d}szul-gi	Szulgi[1]	PROPN	RN	Animacy=Hum|Number=Sing	0	_	_	_
+13	nita	nita[male]	NOUN	N	Number=Sing	12	appos	_	_
+14	kal-ga	kalag[strong]	VERB	V	_	13	amod	_	_
+15	lugal	lugal[king]	NOUN	N	Number=Sing	12	appos	_	_
+16	uri5{ki}-ma	Urim[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	na-ra-am-i3-li2	Naramili[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+18	sukkal	sukkal[secretary]	NOUN	N	Number=Sing	17	appos	_	_
+19	i3-du8	idu[doorkeeper]	NOUN	N	Case=Abs|Number=Sing	17	appos	_	_
+20	ARAD2-zu	arad[slave]	NOUN	N	Case=Abs|Number=Sing	0	_	_	_

@@ -1,0 +1,35 @@
+#new_text=P121584
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(disz)	2(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+3	1(disz)	1(disz)[one]	NUM	NU	_	4	nummod	_	_
+4	masz2	masz[goat]	NOUN	N	Number=Sing	0	_	_	_
+5	2(asz)	2(asz)[one]	NUM	NU	_	6	nummod	_	_
+6	3(barig)	3(bariga)[unit]	NOUN	N	Number=Sing	0	_	_	_
+7	zu2-lum	zulum[date]	NOUN	N	Number=Sing	0	_	_	_
+8	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+9	5(asz)	5(asz)[one]	NUM	NU	_	10	nummod	_	_
+10	naga	naga[potash]	NOUN	N	Number=Sing	0	_	_	_
+11	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+12	2(asz)	2(asz)[one]	NUM	NU	_	13	nummod	_	_
+13	mun	mun[salt]	NOUN	N	Number=Sing	0	_	_	_
+14	gur	gur[unit]	NOUN	N	Number=Sing	0	_	_	_
+15	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	0	_	_	_
+16	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	0	_	_	_
+17	im-ku3-sig17	imkusig[orpiment]	NOUN	N	Number=Sing	0	_	_	_
+18	1(u)	1(u)[ten]	NUM	NU	_	19	nummod	_	_
+19	hal	hal[unit]	NOUN	N	Number=Sing	17	appos	_	_
+20	ku6	kud[fish]	NOUN	N	Number=Sing	17	appos	_	_
+21	6(disz)	6(disz)[one]	NUM	NU	_	22	nummod	_	_
+22	ku6	kud[fish]	NOUN	N	Number=Sing	17	appos	_	_
+23	sag-kesz2	sagkesz[state of goods]	NOUN	N	Number=Sing	17	appos	_	_
+24	nig2-mu10-us2-sa2	nigmussa[bride price]	NOUN	N	Number=Sing	17	appos	_	_
+25	e2	e[house]	NOUN	N	Number=Sing	17	appos	_	_
+26	nig2-du11-ga-ni-sze3	Nigdugani[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	25	GEN	_	_
+27	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+28	kin-{d}inanna	Inanna[1]	PROPN	MN	Number=Sing	27	appos	_	_
+29	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+30	i-bi2-{d}suen	Ibi.Suen[1]	PROPN	RN	Animacy=Hum|Number=Sing	0	_	_	_
+31	lugal	lugal[king]	NOUN	N	Number=Sing	0	_	_	_
+32	giri3	giri[foot]	NOUN	N	Number=Sing	0	_	_	_
+33	lu2-sa6-i3-zu	Lusa'izu[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	32	GEN	_	_

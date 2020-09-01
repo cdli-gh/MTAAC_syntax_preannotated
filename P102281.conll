@@ -1,0 +1,23 @@
+#new_text=P102281
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(gesz2)	1(gesz)[sixty]	NUM	NU	_	_	_	_	_
+2	gur	gur[unit]	NOUN	N	Number=Sing	_	_	_	_
+3	ziz2	ziz[emmer]	NOUN	N	Number=Sing	_	_	_	_
+4	ur-{d}dumu-zi-da	Urdumuzida[1]	PROPN	PN	Animacy=Hum|Number=Sing	Urdumuzida[1][-ak]	PN.GEN	_	Urdumuzida[1][-e]
+5	umma{ki}	Umma[1]	PROPN	SN	Animacy=Hum|Case=Gen|Number=Sing	Umma[1][-ak][-ak]	SN.GEN.GEN	_	Umma[1][-ak][-ak][-ak]
+6	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+7	sze	sze[unit]	NOUN	N	Number=Sing	sze[barley]	N	_	sze[grain]
+8	1(barig)	1(bariga)[unit]	NOUN	N	Number=Sing	_	_	_	_
+9	ziz2	ziz[emmer]	NOUN	N	Number=Sing	_	_	_	_
+10	ur-{d}dumu-zi-da	Urdumuzida[1]	PROPN	PN	Animacy=Hum|Number=Sing	Urdumuzida[1][-ak]	PN.GEN	_	Urdumuzida[1][-e]
+11	...{ki}	[1]	PROPN	SN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_
+12	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month][-ak]
+13	{d}dumu-zi	Dumuzi[1]	PROPN	MN	Number=Sing	_	_	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+15	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	Szusuen[1]	RN	_	_
+16	lugal-e	lugal[king]	NOUN	N	Case=Erg|Number=Sing	_	_	_	_
+17	na-ru2-a	narua[stele]	NOUN	N	Number=Sing	_	_	_	_
+18	mah	mah[great]	NOUN	N	Case=Abs,Abs|Number=Sing	narua[stele]-mah[great][-a][-ø]	N.V.SUB.ABS	_	narua[stele]-mah[great][-ø]
+19	{d}en-lil2	Enlil[1]	PROPN	DN	Animacy=Hum|Number=Sing	Enlil[1][-ak][-ø]	DN.GEN.ABS	_	_
+20	{d}nin-lil2-ra	Ninlil[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+21	mu-ne-du3	a]	VERB	V	Number=Plur|Person=3	_	_	_	_

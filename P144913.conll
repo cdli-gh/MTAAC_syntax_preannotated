@@ -1,0 +1,27 @@
+#new_text=P144913
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1/3(disz)	1/3(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	sila3	sila[unit]	NOUN	N	Number=Sing	20	TERM	_	_
+3	5(disz)	5(disz)[one]	NUM	NU	_	4	nummod	_	_
+4	gin2	gig[unit]	NOUN	N	Number=Sing	2	appos	_	_
+5	i3-nun	inun[ghee]	NOUN	N	Number=Sing	2	appos	_	_
+6	du10-ga	dug[good]	VERB	V	_	5	amod	_	_
+7	i3	i[oil]	NOUN	N	Number=Sing	2	appos	_	_
+8	masz2-da-re6-a	maszdarea[payment]	NOUN	N	Number=Sing	2	appos	_	_
+9	{d}szara2	Szara[1]	PROPN	DN	Animacy=Hum|Number=Sing	8	GEN	_	_
+10	anzu2{muszen}-babbar2	Anzubabbar[1]	PROPN	TN	Case=Gen,Gen|Number=Sing	9	GEN	_	_
+11	mu	mu[name]	NOUN	N	Number=Sing	2	appos	_	_
+12	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	2	appos	_	_
+13	lugal-a-ni-sa6-sze3	Lugalanisa[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	12	GEN	_	_
+14	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	20	ERG	_	_
+15	{d}szara2-kam	Szarakam[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	14	GEN	_	_
+16	mu	mu[year]	NOUN	N	Number=Sing	14	appos	_	_
+17	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	14	appos	_	_
+18	lugal-e	lugal[king]	NOUN	N	Case=Erg|Number=Sing	14	appos	_	_
+19	na-ru2-a-mah	naru'amah[great_stele]	NOUN	N	Case=Abs|Number=Sing	20	ABS	_	_
+20	mu-hul	n]	VERB	V	Number=Sing|Person=3	0	_	_	_
+21	{d}szara2-kam	Szarakam[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+22	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+23	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+24	lugal-{gesz}kiri6	Lugalkiri[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+25	szabra	szabra[chief_administrator]	NOUN	N	Case=Gen|Number=Sing	24	GEN	_	_

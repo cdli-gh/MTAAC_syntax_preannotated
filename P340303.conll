@@ -1,0 +1,26 @@
+#new_text=P340303
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	_	_	_	_
+2	gurusz	gurusz[male]	NOUN	N	Number=Sing	_	_	_	_
+3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+4	8(disz)-sze3	8(disz)[one]	NOUN	N	Number=Sing	_	_	_	_
+5	mar-sa	marsa[shipyard]	NOUN	N	Number=Sing	_	_	_	_
+6	gub-ba	gub[assigned]	VERB	V	_	gub[stand]-a[-ak][-sze]	NF.V.PT.GEN.TERM	_	_
+7	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+8	lugal-nig2-lagar-e-ta	Lugalniglagare[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+9	szesz-kal-la	Szeszkala[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	Szeszkala[1]	PN	_	_
+10	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
+11	iti	iti[month]	NOUN	N	Number=Sing	_	_	_	_
+12	{d}dumu-zi	Dumuzi[1]	PROPN	MN	Number=Sing	Dumuzi[1]	MN	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	_
+14	us2-sa	us[follow]	VERB	V	_	us[follow]-a	V.SUB	_	_
+15	an-sza-an{ki}	Anszan[1]	PROPN	GN	Case=Abs|Number=Sing	_	_	_	_
+16	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-hulu[bad][-ø]	MID.V.3-SG-P	_	ba-hulu[-ø]
+17	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+18	ensi2	ensik[ruler]	NOUN	N	Number=Sing	_	_	_	_
+19	umma{ki}	Umma[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	Umma[1][-ak][-ra]	SN.GEN.DAT-H	_	Umma[1][-ak][-ak]
+20	szesz-kal-la	Szeszkala[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+21	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	dubsar[scribe][-ak]	N.GEN	_	_
+22	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+23	na-silim	Nasilim[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abs|Number=Sing	_	_	_	_
+24	ARAD2-zu	arad[slave]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_

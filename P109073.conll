@@ -1,0 +1,24 @@
+#new_text=P109073
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(barig)	2(barig)[unit]	NOUN	N	Number=Sing	13	ABS	_	_
+2	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	1	appos	_	_
+3	sze-gesz-i3	szegeszi[sesame_seed]	NOUN	N	Case=Abs|Number=Sing	1	appos	_	_
+4	i3	i[oil]	NOUN	N	Case=Abs|Number=Sing	6	ABS	_	_
+5	tug2-ge	tug[textile]	NOUN	N	Animacy=Nhum|Number=Sing	6	L3-NH	_	_
+6	ak-de3	ak[do]	VERB	V	_	13	ABL	_	_
+7	ki	ki[place]	NOUN	N	Number=Sing	6	appos	_	_
+8	ur-ab-ba-ta	Uraba[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	7	GEN	_	_
+9	i3-li2-NE	IliNE[1]	PROPN	PN	Animacy=Hum|Number=Sing	13	ERG	_	_
+10	dumu	dumu[child]	NOUN	N	Number=Sing	9	appos	_	_
+11	ur-{d}iszkur	Uriszkur[1]	PROPN	PN	Animacy=Hum|Case=Gen,Erg|Number=Sing	10	GEN	_	_
+12	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	13	L3-NH	_	_
+13	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+14	iti	iti[month]	NOUN	N	Number=Sing	18	L1	_	_
+15	munu4-gu7	Munugu[1]	PROPN	MN	Number=Sing	14	appos	_	_
+16	mu	mu[year]	NOUN	N	Number=Sing	18	ABS	_	_
+17	si-mu-ru-um{ki}	Simurrum[1]	PROPN	SN	Case=Abs|Number=Sing	16	appos	_	_
+18	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+19	ur-...	[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+20	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+21	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+22	ur-...	[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	21	GEN	_	_

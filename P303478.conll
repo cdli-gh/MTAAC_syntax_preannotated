@@ -1,0 +1,24 @@
+#new_text=P303478
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	amar	amar[calf]	NOUN	N	Number=Sing	0	_	_	_
+3	gu4	gud[ox]	NOUN	N	Number=Sing	2	appos	_	_
+4	ga	ga[suckling]	NOUN	N	Number=Sing	2	appos	_	_
+5	1(disz)	1(disz)[one]	NUM	NU	_	6	nummod	_	_
+6	{munus}asz2-gar3	aszgar[female_kid]	NOUN	N	Number=Sing	2	appos	_	_
+7	niga	niga[fattened]	VERB	V	_	6	amod	_	_
+8	3(disz)	3(disz)[one]	NUM	NU	_	6	nummod	_	_
+9	udu	udu[sheep]	NOUN	N	Case=Abs|Number=Sing	10	ABS	_	_
+10	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+11	u4	ud[day]	NOUN	N	Number=Sing	0	_	_	_
+12	...-kam	[_]	NUM	NU	Case=Gen	11	nummod	_	_
+13	ki	ki[place]	NOUN	N	Number=Sing	11	appos	_	_
+14	zu-ba-ga-ta	Zubaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	13	GEN	_	_
+15	{d}szul-gi-iri-mu	Szulgi'irimu[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	0	_	_	_
+16	szu	szu[hand]	NOUN	N	Number=Sing	0	_	_	_
+17	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+18	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+19	ezem-{d}nin-a-zu	Ezemninazu[1]	PROPN	MN	Number=Sing	18	appos	_	_
+20	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+21	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	0	_	_	_
+22	lugal	lugal[king]	NOUN	N	Number=Sing	0	_	_	_

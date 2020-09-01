@@ -1,0 +1,24 @@
+#new_text=P136937
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2/3(disz){sza}	2/3(disz)[one]	NUM	NU	_	3	nummod	_	_
+2	5(disz)	5(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	gin2	gig[unit]	NOUN	N	Number=Sing	0	_	_	_
+4	uruda	urud[copper]	NOUN	N	Number=Sing	0	_	_	_
+5	{uruda}ur2-zi-ir	urzir[tree_type]	NOUN	N	Number=Sing	0	_	_	_
+6	ku3-babbar	kugbabbar[silver]	NOUN	N	Number=Sing	0	_	_	_
+7	...	_	_	_	_	0	_	_	_
+8	gin2	gig[unit]	NOUN	N	Number=Sing	0	_	_	_
+9	1(asz)	1(asz)[one]	NUM	NU	_	0	_	_	_
+10	x	_	_	_	_	0	_	_	_
+11	...	_	_	_	_	0	_	_	_
+12	ki	ki[place]	NOUN	N	Number=Sing	16	ABL	_	_
+13	dingir-su-ra-bi2-ta	Dingirsurabi[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	12	GEN	_	_
+14	a-hu-wa-qar	Ahuwaqar[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	16	ERG	_	_
+15	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	16	L3-NH	_	_
+16	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+17	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+18	ezem-an-na	Ezemanna[1]	PROPN	MN	Number=Sing	0	_	_	_
+19	u4	ud[day]	NOUN	N	Number=Sing	18	appos	_	_
+20	2(u)	2(u)[ten]	NUM	NU	Case=Abs	19	nummod	_	_
+21	ba-zal	zal[pass]	VERB	V	Number=Sing|Person=3|Voice=Mid	18	amod	_	_
+22	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_

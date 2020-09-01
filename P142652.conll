@@ -1,0 +1,26 @@
+#new_text=P142652
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	6(disz)	6(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	gurusz	gurusz[male]	NOUN	N	Number=Sing	0	_	_	_
+3	hun-ga2	hug[hire]	VERB	V	_	2	amod	_	_
+4	{u2}kiszi17	kiszig[acacia]	NOUN	N	Number=Sing	2	appos	_	_
+5	a-ra2	ara[times]	NOUN	N	Number=Sing	2	appos	_	_
+6	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	9	nummod	_	_
+7	1(u)	1(u)[ten]	NUM	NU	_	6	nummod	_	_
+8	2(disz)	2(disz)[one]	NUM	NU	_	6	nummod	_	_
+9	sar-ta	sar[unit]	NOUN	N	Case=Abl|Number=Sing	2	appos	_	_
+10	ugula	ugula[overseer]	NOUN	N	Number=Sing	0	_	_	_
+11	e2-ma-ki-du10	Emakidug[1]	PROPN	PN	Animacy=Hum|Number=Sing	10	appos	_	_
+12	a-sza3	aszag[field]	NOUN	N	Number=Sing	10	appos	_	_
+13	tur	Tur[1]	PROPN	FN	Number=Sing	10	appos	_	_
+14	szuku	szukur[prebend_land]	NOUN	N	Number=Sing	10	appos	_	_
+15	ensi2	ensik[ruler]	NOUN	N	Case=Gen|Number=Sing	14	GEN	_	_
+16	u4	ud[day]	NOUN	N	Number=Sing	15	appos	_	_
+17	2(u)	2(u)[ten]	NUM	NU	_	16	nummod	_	_
+18	3(disz)-kam	3(disz)[one]	NUM	NU	Case=Gen	17	nummod	_	_
+19	iti	iti[month]	NOUN	N	Number=Sing	0	_	_	_
+20	e2-iti-6(disz)	E'iti6[1]	PROPN	MN	Number=Sing	19	appos	_	_
+21	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+22	e2	e[house]	NOUN	N	Number=Sing	0	_	_	_
+23	{d}szara2	Szara[1]	PROPN	DN	Animacy=Hum|Case=Gen|Number=Sing	22	GEN	_	_
+24	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

@@ -1,0 +1,18 @@
+#new_text=P340047
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	9	ABS	_	_
+2	nig2-ka9-ak	nigSZID[account]	NOUN	N	Number=Sing	1	appos	_	_
+3	lu2	lu[person]	NOUN	N	Number=Sing	1	appos	_	_
+4	nig2-dab5-ba-ke4-ne	nigdab[functionary]	NOUN	N	Case=Gen,Abs|Number=Plur	1	appos	_	_
+5	sza3	szag[heart]	NOUN	N	Number=Sing	9	L1	_	_
+6	pisan	bisag[basket]	NOUN	N	Number=Sing	5	appos	_	_
+7	a-a-kal-la	Ayakala[1]	PROPN	PN	Animacy=Hum|Number=Sing	6	GEN	_	_
+8	ensi2-ka	ensik[ruler]	NOUN	N	Case=Gen,Gen|Number=Sing	7	GEN	_	_
+9	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+10	mu	mu[year]	NOUN	N	Number=Sing	16	ERG	_	_
+11	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	10	appos	_	_
+12	lugal	lugal[king]	NOUN	N	Number=Sing	10	appos	_	_
+13	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Case=Gen,Erg|Number=Sing	12	GEN	_	_
+14	ma-da	mada[land]	NOUN	N	Number=Sing	16	ABS	_	_
+15	za-ab-sza-li{ki}	Zabszali[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	14	GEN	_	_
+16	mu-hul	n]	VERB	V	Number=Sing|Person=3	0	_	_	_

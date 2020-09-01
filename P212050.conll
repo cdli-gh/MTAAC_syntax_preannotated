@@ -1,0 +1,19 @@
+#new_text=P212050
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	4(disz)	4(disz)[one]	NUM	NU	_	_	_	_	_
+2	sila4	sila[lamb]	NOUN	N	Case=Abs|Number=Sing	sila[lamb][-ø]	N	_	sila[lamb]
+3	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+4	2(u)	2(u)[ten]	NUM	NU	_	2(u)[ten][-sze]	NU.TERM	_	2(u)[ten][-ø]
+5	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	1(disz)[one]-ak-am[-sze]	NU.GEN.COP-3-SG.TERM	_	_
+6	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+7	ab-ba-sa6-ga-ta	Abbasaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	Abbasaga[1]-ak-ta	PN.GEN.ABL	_	_
+8	in-ta-e3-a	Inta'e'a[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	Inta’e’a[1][-e]	PN.ERG	_	_
+9	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
+10	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month]-
+11	ezem-{d}szul-gi	Ezemszulgi[1]	PROPN	MN	Number=Sing	Ezemszulgi[1][-'a]	MN.L1	_	Ezemszulgi[1]
+12	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+13	en-unu6-gal	Enunugal[1]	PROPN	PN	Animacy=Hum|Number=Sing	Enunugal[1][-ø]	PN.ABS	_	_
+14	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	Inanna[1][-ak][-ak]	DN.GEN.GEN	_	Inanna[1][-ak]
+15	unu{ki}	Unug[1]	PROPN	SN	Case=Gen,Gen,Abs|Number=Sing	_	_	_	_
+16	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-hug[hire][-ø][-ø]	MID.V.3-SG-S.ABS	_	ba-hug[hire][-ø][-a]
+17	4(disz)	4(disz)[one]	NUM	NU	_	4(disz)[one][-ø]	NU.ABS	_	_

@@ -1,0 +1,20 @@
+#new_text=P101791
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	o.1.2 dub-ba [dub-ba] dub[tablet]-ak N.GEN	_	_	_	_	0	_	_	_
+2	nig2-ka9-ak	nigSZID[account]	NOUN	N	Case=Gen|Number=Sing	17|17	GEN|ABL	_	_
+3	i-din-er3-ra	Idinerra[1]	PROPN	PN	Animacy=Hum|Number=Sing	2	GEN	_	_
+4	iti	iti[month]	NOUN	N	Number=Sing	3	appos	_	_
+5	sze-sag11-ku5-ta	Szesagku[1]	PROPN	MN	Case=Abl|Number=Sing	3	appos	_	_
+6	iti	iti[month]	NOUN	N	Number=Sing	17	TERM	_	_
+7	ezem-{d}me-ki-gal2-sze3	Ezemmekigal[1]	PROPN	MN	Number=Sing	6	appos	_	_
+8	iti	iti[month]	NOUN	N	Number=Sing	6	appos	_	_
+9	1(u)	1(u)[ten]	NUM	NU	_	8	nummod	_	_
+10	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	9	nummod	_	_
+11	mu	mu[year]	NOUN	N	Number=Sing	17	ERG	_	_
+12	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	11	appos	_	_
+13	lugal	lugal[king]	NOUN	N	Number=Sing	11	appos	_	_
+14	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Case=Gen,Erg|Number=Sing	13	GEN	_	_
+15	ma-da	mada[land]	NOUN	N	Number=Sing	17	ABS	_	_
+16	za-ab-sza-li{ki}	Zabszali[1]	PROPN	GN	Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	mu-hul	n]	VERB	V	Number=Sing|Person=3	0	_	_	_
+18	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
