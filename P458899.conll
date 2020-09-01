@@ -1,0 +1,25 @@
+#new_text=P458899
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(asz)	2(asz)[one]	NUM	NU	_	2	nummod	_	_
+2	gur	gur[unit]	NOUN	N	Number=Sing	11	ABS	_	_
+3	sze	sze[barley]	NOUN	N	Number=Sing	2	appos	_	_
+4	szuku	szukur[ration]	NOUN	N	Number=Sing	2	appos	_	_
+5	ba-la	Bala[1]	PROPN	PN	Animacy=Hum|Number=Sing	2	appos	_	_
+6	engar	engar[farmer]	NOUN	N	Case=Gen,Abs|Number=Sing	5	GEN	_	_
+7	ki	ki[place]	NOUN	N	Number=Sing	11	ABL	_	_
+8	ma-an-szum2-ta	Manszum[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	7	GEN	_	_
+9	ugu2	ugu[capital]	NOUN	N	Number=Sing	11	L1	_	_
+10	da-da	Dada[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	9	GEN	_	_
+11	ba-a-gar	gar[place]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+12	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+13	lu2-{d}szul-gi	Luszulgi[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	12	GEN	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	17	ABS	_	_
+15	en	en[priest]	NOUN	N	Number=Sing	14	appos	_	_
+16	eridu{ki}	Eridu[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+18	lu2-{d}szul-gi	Luszulgi[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+19	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+20	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+21	ur-{d}li9-si4	Urlisi[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+22	ensi2	ensik[ruler]	NOUN	N	Number=Sing	21	GEN	_	_
+23	umma{ki}-ka	Umma[1]	PROPN	SN	Case=Gen,Gen|Number=Sing	22	GEN	_	_

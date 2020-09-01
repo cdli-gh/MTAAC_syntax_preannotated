@@ -1,0 +1,21 @@
+#new_text=P416146
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	{uruda}zi-ir	zir[slip]	NOUN	N	Number=Sing	0	_	_	_
+3	ki-la2-bi	kila[weight]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	2	appos	_	_
+4	6(disz)	6(disz)[one]	NUM	NU	_	6	nummod	_	_
+5	1/2(disz)	1/2(disz)[one]	NUM	NU	_	4	nummod	_	_
+6	ma-na	mana[unit]	NOUN	N	Number=Sing	14	ABS	_	_
+7	8(disz)	8(disz)[one]	NUM	NU	_	8	nummod	_	_
+8	gin2	gig[unit]	NOUN	N	Case=Abs|Number=Sing	6	appos	_	_
+9	ki	ki[place]	NOUN	N	Number=Sing	14	ABL	_	_
+10	i3-kal-la-ta	Ikala[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	9	GEN	_	_
+11	tug2-ba-a	tugba[textile_distribution]	NOUN	N	Number=Sing	14	TERM	_	_
+12	bala-a-sze3	bala[tax]	NOUN	N	Case=Gen|Number=Sing	11	GEN	_	_
+13	ku3-{d}nin-ur4-ra	Ku'ninura[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	14	ERG	_	_
+14	in-la2	la[weigh]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	19	L1	_	_
+16	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	15	appos	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	19	ABS	_	_
+18	e2-{d}szara2	Eszara[1]	PROPN	TN	Case=Abs|Number=Sing	17	appos	_	_
+19	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

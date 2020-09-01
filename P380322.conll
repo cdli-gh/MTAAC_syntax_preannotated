@@ -1,0 +1,21 @@
+#new_text=P380322
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(u)	5(u)[ten]	NUM	NU	_	3	nummod	_	_
+2	6(asz)	6(asz)[one]	NUM	NU	_	1	nummod	_	_
+3	sze	sze[barley]	NOUN	N	Number=Sing	0	_	_	_
+4	gur	gur[unit]	NOUN	N	Number=Sing	3	appos	_	_
+5	lugal	lugal[king]	NOUN	N	Case=Gen,Abs|Number=Sing	4	GEN	_	_
+6	i3-dub	idub[granary]	NOUN	N	Number=Sing	0	_	_	_
+7	...-{d}...	_	_	_	_	0	_	_	_
+8	ki	ki[place]	NOUN	N	Number=Sing	12	ABL	_	_
+9	...-ta	[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	8	GEN	_	_
+10	...	[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	12	ERG	_	_
+11	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	12	L3-NH	_	_
+12	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+13	giri3	giri[foot]	NOUN	N	Number=Sing	19	L1	_	_
+14	da-ga-...	[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	13	GEN	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	13	appos	_	_
+16	sze-sag11-ku5	Szesagku[1]	PROPN	MN	Number=Sing	13	appos	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	19	ABS	_	_
+18	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	17	appos	_	_
+19	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

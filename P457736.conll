@@ -1,0 +1,7 @@
+#new_text=P457736
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	ur-{d}lamma	Urlamma[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	Urlamma[1][-ra]
+2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+3	ur-mes	Urmes[1]	PROPN	PN	Animacy=Hum|Number=Sing	Urmes[1]	RN	_	_
+4	lu2	lu[person]	NOUN	N	Number=Sing	lu[person][-e]	N.ERG	_	_
+5	lunga	lungak[brewer]	NOUN	N	Case=Gen|Number=Sing	_	_	_	_

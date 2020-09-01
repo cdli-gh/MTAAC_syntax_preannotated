@@ -1,0 +1,23 @@
+#new_text=P380036
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+2	4(asz)	4(asz)[one]	NUM	NU	_	_	_	_	_
+3	sze	sze[barley]	NOUN	N	Number=Sing	sze[unit]	N	_	sze[barley][-ak]
+4	gur	gur[unit]	NOUN	N	Number=Sing	gur[unit][-ø]	N.ABS	_	gur[unit][-ø]
+5	nig2-sa10	nigsam[price]	NOUN	N	Number=Sing	_	_	_	_
+6	ab2	ab[cow]	NOUN	N	Number=Sing	ab[cow][-ø]	N.ABS	_	_
+7	2(disz)-sze3	2(disz)[one]	NUM	NU	_	_	_	_	_
+8	sze	sze[barley]	NOUN	N	Number=Sing	sze[unit]	N	_	sze[barley][-ak]
+9	a-<sza3>	aszag[field]	NOUN	N	Number=Sing	_	_	_	_
+10	{gesz}ma-nu	manu[wood_type]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+11	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+12	lu2-{d}utu-ta	Lu'utu[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+13	...-bi	[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	_	_	_	_
+14	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	szu[hand]	N	_	szu[hand][-ø]
+15	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba[-n]teg[accept][-ø]	MID.3-SG-H-A.V.3-SG-P	_	ba[-n]-teg[accept][-ø][-a]
+16	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month]-
+17	ezem-{d}dumu-zi	Ezemdumuzi[1]	PROPN	MN	Number=Sing	_	_	_	_
+18	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+19	ma-da	mada[land]	NOUN	N	Number=Sing	mada[land][-ak][-ø]	N.GEN.ABS	_	mada[land]
+20	za-ab-sza-li{ki}	Zabszali[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	Zabszali[1][-ak]	SN.GEN	_	Zabszali[1][-ak][-ø]
+21	mu-hul	n]	VERB	V	Number=Sing|Person=3	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-S	_	_

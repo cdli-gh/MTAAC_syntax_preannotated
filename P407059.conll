@@ -1,0 +1,27 @@
+#new_text=P407059
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(gesz2)	2(gesz)[sixty]	NUM	NU	_	4	nummod	_	_
+2	5(u)	5(u)[ten]	NUM	NU	_	1	nummod	_	_
+3	2(disz)	2(disz)[one]	NUM	NU	_	1	nummod	_	_
+4	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+5	3(u)	3(u)[ten]	NUM	NU	_	6	nummod	_	_
+6	u8	u[ewe]	NOUN	N	Number=Sing	4	appos	_	_
+7	5(u)	5(u)[ten]	NUM	NU	_	9	nummod	_	_
+8	7(disz)	7(disz)[one]	NUM	NU	_	7	nummod	_	_
+9	masz2	masz[goat]	NOUN	N	Number=Sing	4	appos	_	_
+10	szu-gid2	szugid[animal_designation]	NOUN	N	Case=Abs|Number=Sing	4	appos	_	_
+11	ki	ki[place]	NOUN	N	Number=Sing	15	ABL	_	_
+12	na-lu5-ta	Nalu[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	11	GEN	_	_
+13	mu-kux(DU)	muku[delivery]	NOUN	N	Case=Abs|Number=Sing	15	ABS	_	_
+14	ur-ku3-nun-na	Urkununa[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	15	ERG	_	_
+15	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+16	iti	iti[month]	NOUN	N	Number=Sing	21	L1	_	_
+17	masz-da3-gu7	Maszdagu[1]	PROPN	MN	Number=Sing	16	appos	_	_
+18	mu	mu[year]	NOUN	N	Number=Sing	16	appos	_	_
+19	us2-sa	us[follow]	VERB	V	_	18	amod	_	_
+20	ur-bi-lum{ki}	Urbilum[1]	PROPN	SN	Case=Abs|Number=Sing	21	ABS	_	_
+21	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+22	4(gesz2)	4(gesz)[sixty]	NUM	NU	_	0	_	_	_
+23	2(u)	2(u)[ten]	NUM	NU	_	22	nummod	_	_
+24	la2	la[hang]	VERB	V	_	25	ABS	_	_
+25	1(disz@t)	1(disz@t)[one]	NUM	NU	_	23	nummod	_	_

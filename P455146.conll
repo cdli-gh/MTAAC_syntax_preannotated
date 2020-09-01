@@ -1,0 +1,5 @@
+#new_text=P455146
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	hu-ur5-bi-sza-am	Hurbiszam[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+2	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+3	SI-A-a	SI'Aya[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	2	GEN	_	_

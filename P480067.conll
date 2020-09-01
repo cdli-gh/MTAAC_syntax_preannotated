@@ -1,0 +1,24 @@
+#new_text=P480067
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	am	am[bull]	NOUN	N	Number=Sing	0	_	_	_
+3	gu4	gud[ox]	NOUN	N	Number=Sing	2	appos	_	_
+4	1(disz)	1(disz)[one]	NUM	NU	_	3	nummod	_	_
+5	amar	amar[calf]	NOUN	N	Number=Sing	2	appos	_	_
+6	pesz	pesz[thick]	VERB	V	_	5	amod	_	_
+7	am	am[bull]	NOUN	N	Case=Abs|Number=Sing	14	ABS	_	_
+8	u4	ud[day]	NOUN	N	Number=Sing	7	appos	_	_
+9	2(u)	2(u)[ten]	NUM	NU	_	8	nummod	_	_
+10	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	9	nummod	_	_
+11	ki	ki[place]	NOUN	N	Number=Sing	14	ABL	_	_
+12	ab-ba-sa6-ga-ta	Abbasaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	11	GEN	_	_
+13	lu2-dingir-ra	Ludingira[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	14	ERG	_	_
+14	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	21	L1	_	_
+16	szu-esz5-sza	Szueszsza[1]	PROPN	MN	Number=Sing	15	appos	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	21	ERG	_	_
+18	{d}amar-{d}suen	Amarsuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	17	appos	_	_
+19	lugal-e	lugal[king]	NOUN	N	Case=Erg|Number=Sing	17	appos	_	_
+20	ur-bi2-lum{ki}	Urbillum[1]	PROPN	SN	Case=Abs|Number=Sing	21	ABS	_	_
+21	mu-hul	n]	VERB	V	Number=Sing|Person=3	0	_	_	_
+22	2(disz)	2(disz)[one]	NUM	NU	_	0	_	_	_

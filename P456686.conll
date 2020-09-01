@@ -1,0 +1,5 @@
+#new_text=P456686
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	nin-inim-gi-na	Nininimgina[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+2	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+3	...	[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	2	GEN	_	_

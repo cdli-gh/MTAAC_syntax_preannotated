@@ -1,0 +1,8 @@
+#new_text=P456511
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	me-{d}isztaran	Me'isztaran[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+2	dumu-munus	dumumunus[daughter]	NOUN	N	Number=Sing	1	appos	_	_
+3	lugal	lugal[king]	NOUN	N	Case=Gen,Abs|Number=Sing	2	GEN	_	_
+4	puzur4-{d}en-lil2	Puzurenlil[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+5	dub-sar	dubsar[scribe]	NOUN	N	Case=Abs|Number=Sing	4	appos	_	_
+6	ARAD2-zu	arad[slave]	NOUN	N	Case=Abs|Number=Sing	0	_	_	_

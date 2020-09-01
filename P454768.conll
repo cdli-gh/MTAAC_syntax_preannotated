@@ -1,0 +1,6 @@
+#new_text=P454768
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	bu-ga-ti	Bugati[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+2	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+3	i-di3-{d}iszkur	Idi'iszkur[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+4	dam-gar3	damgar[merchant]	NOUN	N	Case=Gen|Number=Sing	damgar[merchant][-ak][-ø]	N.GEN.ABS	_	_

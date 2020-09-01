@@ -1,0 +1,19 @@
+#new_text=P404805
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	17	GEN.ABS	_	_
+2	e2-tum	bitum[administrative_term]	NOUN	N	Number=Sing	1	appos	_	_
+3	sag-nig2-gur11-ra	sagnigGAra[assets]	NOUN	N	Number=Sing	1	appos	_	_
+4	u3	u[and]	CCONJ	CNJ	_	3	cc	_	_
+5	zi-ga	ziga[expenditure]	NOUN	N	Number=Sing	3	conj	_	_
+6	lu2-{d}ba-ba6	Lubaba[1]	PROPN	PN	Animacy=Hum|Case=Gen,Gen,Abs|Number=Sing	5	GEN	_	_
+7	iti	iti[month]	NOUN	N	Number=Sing	17	ABL	_	_
+8	masz-da3-gu7-ta	Maszdagu[1]	PROPN	MN	Case=Abl|Number=Sing	7	appos	_	_
+9	iti	iti[month]	NOUN	N	Number=Sing	17	TERM	_	_
+10	sze-sag11-ku5-sze3	Szesagku[1]	PROPN	MN	Number=Sing	9	appos	_	_
+11	iti	iti[month]	NOUN	N	Number=Sing	9	appos	_	_
+12	1(u)	1(u)[ten]	NUM	NU	_	11	nummod	_	_
+13	2(disz)-kam	2(disz)[one]	NUM	NU	Case=Gen	12	nummod	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	17	ABS	_	_
+15	en-unu6-gal	Enunugal[1]	PROPN	PN	Animacy=Hum|Number=Sing	14	appos	_	_
+16	{d}inanna	Inanna[1]	PROPN	DN	Animacy=Hum|Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

@@ -1,0 +1,27 @@
+#new_text=P453609
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	sila3	sila[unit]	NOUN	N	Number=Sing	0	_	_	_
+3	tu7	tu[soup]	NOUN	N	Number=Sing	0	_	_	_
+4	2(u)	2(u)[ten]	NUM	NU	_	5	nummod	_	_
+5	ku6	kud[fish]	NOUN	N	Number=Sing	0	_	_	_
+6	u4	ud[day]	NOUN	N	Number=Sing	5	appos	_	_
+7	1(disz)-kam	1(disz)[one]	NUM	NU	Case=Gen	6	nummod	_	_
+8	u4	ud[day]	NOUN	N	Number=Sing	5	appos	_	_
+9	3(u)-sze3	3(u)[ten]	NUM	NU	_	8	nummod	_	_
+10	tu7-bi	tu[soup]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	5	appos	_	_
+11	3(u)	3(u)[ten]	NUM	NU	_	12	nummod	_	_
+12	sila3	sila[unit]	NOUN	N	Case=Abs|Number=Sing	0	_	_	_
+13	ku6-bi	kud[fish]	NOUN	N	Animacy=Nhum|Case=Abs|Number=Sing	17	ABS	_	_
+14	1(gesz'u)	1(gesz'u)[six_hundred]	NUM	NU	Case=Abs	15	nummod	_	_
+15	geme2	geme[female_worker]	NOUN	N	Number=Sing	17	ERG	_	_
+16	usz-bar-e	uszbar[weaver]	NOUN	N	Case=Erg|Number=Sing	15	appos	_	_
+17	ib2-gu7	gu[eat]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+18	ki	ki[place]	NOUN	N	Number=Sing	20	ABL	_	_
+19	puzur4-{d}iszkur	Puzuriszkur[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	18	GEN	_	_
+20	zi-ga	zig[expend]	VERB	V	_	25	L1	_	_
+21	iti	iti[month]	NOUN	N	Number=Sing	20	appos	_	_
+22	kir11-si-ak	Kirsi'ak[1]	PROPN	MN	Number=Sing	20	appos	_	_
+23	mu	mu[year]	NOUN	N	Number=Sing	25	ABS	_	_
+24	hu-uh2-nu-ri{ki}	Huhnuri[1]	PROPN	SN	Case=Abs|Number=Sing	23	appos	_	_
+25	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
